@@ -36,38 +36,38 @@ iOS相关:
 
 视频教程：
 
-* iOS初级到高级 [https://www.lynda.com/search?q=ios](https://www.lynda.com/search?q=ios)
-* 慕课网 [https://www.imooc.com/](https://www.lynda.com/search?q=ios)
-*  腾讯课堂 [https://ke.qq.com](https://www.lynda.com/search?q=ios)
+* iOS初级到高级 [https://www.lynda.com/search?q=ios]()
+* 慕课网 [https://www.imooc.com/]()
+*  腾讯课堂 [https://ke.qq.com]()
 
 社区：
 
-* App Develop Forums： [https://forums.developer.apple.com/welcome](https://www.lynda.com/search?q=ios)
-*  WWDC [https://asciiwwdc.com/](https://www.lynda.com/search?q=ios)
-*  segmentfault  [https://segmentfault.com/](https://www.lynda.com/search?q=ios)
-*  iOS逆向 [http://iosre.com/](https://www.lynda.com/search?q=ios)
-*  stackoverflow [https://stackoverflow.com/](https://www.lynda.com/search?q=ios)
+* App Develop Forums： [https://forums.developer.apple.com/welcome]()
+*  WWDC [https://asciiwwdc.com/]()
+*  segmentfault  [https://segmentfault.com/]()
+*  iOS逆向 [http://iosre.com/]()
+*  stackoverflow [https://stackoverflow.com/]()
 
 相关书籍:
 
-*  IT books [http://it-ebooks.info/](https://www.lynda.com/search?q=ios)
-*  《iOS Programming》    [https://book.douban.com/subject/24538384/](https://www.lynda.com/search?q=ios)
+*  IT books [http://it-ebooks.info/]()
+*  《iOS Programming》    [https://book.douban.com/subject/24538384/]()
 *   《Effective Objective C 2.0 》编写高质量iOS与OS X代码的52个有效方法 [https://www.amazon.cn/dp/B00IDSGY06/ref=cm_sw_r_qz_2_dp_A2OPub0CH96YH
-](https://www.lynda.com/search?q=ios)  
-*   [https://www.jiumodiary.com/](https://www.lynda.com/search?q=ios)
-*   世界数字图书馆：[https://www.wdl.org/zh/item/9758/#q=%E5%9F%9F%E5%90%8D&qla=zh](https://www.lynda.com/search?q=ios)
+]()  
+*   [https://www.jiumodiary.com/]()
+*   世界数字图书馆：[https://www.wdl.org/zh/item/9758/#q=%E5%9F%9F%E5%90%8D&qla=zh]()
 
 工具：
 
-*  markdown技术简历制作  [http://cv.ftqq.com/](https://www.lynda.com/search?q=ios)
+*  markdown技术简历制作  [http://cv.ftqq.com/]()
 
 活动：
 
-*   [https://juejin.im/events/all](https://www.lynda.com/search?q=ios)
-*   活动行大全 [http://www.huodongxing.com/](https://www.lynda.com/search?q=ios)
+*   [https://juejin.im/events/all]()
+*   活动行大全 [http://www.huodongxing.com/]()
 
 时光机网站（它会把几乎所有的网站之前的样式也做了备份，可以查看一个网站之前的样子）：[https://archive.org/
-](https://www.lynda.com/search?q=ios)
+]()
 
 ---
 
