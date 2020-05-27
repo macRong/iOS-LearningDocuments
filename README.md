@@ -5,7 +5,7 @@
 
 iOS相关:
 
-* csdn: [https://www.csdn.net/]()
+* csdn: [https://www.csdn.net/](https://www.csdn.net/)
 * 掘金：[https://juejin.im/]()
 * 老外很有深度blog: [https://www.mikeash.com/pyblog/]()
 * 并发编程网:  [http://ifeve.com]()
